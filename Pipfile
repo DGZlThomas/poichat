@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 statsmodels = "*"
+pmdarima = "*"
 
 [dev-packages]
 
